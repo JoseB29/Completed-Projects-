@@ -1,7 +1,5 @@
 /* ---------------------------------------------
-Program 5: March Madness Frenzy
-
-Course: CS 141, Spring 2022. Tues 2pm lab
+Program Name: March Madness Frenzy
 System: Mac using Visual Studio Code
 Author: Bolanos Jose
 ---------------------------------------------

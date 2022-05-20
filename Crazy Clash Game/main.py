@@ -1,9 +1,8 @@
-######################################################
-# Project: <Project 2 game>
-# UIN: <661888752>
-# repl.it URL: <https://replit.com/@CS111-Fall2021/Project-2-JoseBolan#main.py>
-
-######################################################
+#######################################
+#Program Name: Crazy Clash Game
+#System: Mac using Visual Studio Code
+#Author: Bolanos Jose
+#######################################
 ## imports
 import turtle
 import random
